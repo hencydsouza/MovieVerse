@@ -99,7 +99,7 @@ cd server
 ```bash
  MONGODB_URL= # Your MongoDB connection string
 PORT=5000
-TOKEN_SECRET_KEY= # Your secret key for JWT it can be any string
+TOKEN_SECRET= # Your secret key for JWT it can be any string
 TMDB_BASE_URL=https://api.themoviedb.org/3/
 TMDB_KEY= # Your TMDB API key
 
